@@ -45,7 +45,7 @@ export default function HelloPage() {
          * Can you find where the PageTitle component declaration is?
          */
       }
-      <PageTitle contents="Hello, JumboCode Developers!" />
+      <PageTitle contents="Hello, Natalie!" />
       {
         /**
          * This is a <div> which allows us to divide a webpage
